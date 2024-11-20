@@ -1,4 +1,4 @@
-# Expense-Tracker -Python-Project
+# Expense-Tracker Python-Project
 In this Python project, we will build a GUI-based Expense Tracker using the Tkinter, Tkcalender, and SQLite libraries and the message box and Ttk modules of the Tkinter library. It is an intermediate-level project, where you will learn a lot about databases and GUIs and apply them in real life.
 
 This is a Python-based Expense Tracker application built using Tkinter, Tkcalendar, SQLite, and the Ttk modules. The application allows users to track their expenses, view the history of transactions, and store all relevant information like payee and the reason for payment. It’s an intermediate-level project to help you master GUI development, databases, and event handling in Python.
